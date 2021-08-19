@@ -3,12 +3,11 @@
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on web development Projects(frontend & backend), Linux System Admin
 - 📫 You can reach me through:<br />
--          <ul>
-       <li>  Email: raj.vivek999@gmail.com </li><br />
-       <li>  Phone: +91 9967796321</li><br />
-       <li>  Facebook: www.facebook.com/raj.vivek999</li><br />
-       <li>  Instagram: www.instagram.com/l0st_vive</li>
-           </ul>
+-             Email: raj.vivek999@gmail.com ><br />
+              Phone: +91 9967796321<br />
+               Facebook: www.facebook.com/raj.vivek999><br />
+               Instagram: www.instagram.com/l0st_vive
+        
 
 <!---
 vive-999/vive-999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
