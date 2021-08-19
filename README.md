@@ -2,10 +2,10 @@
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on web development Projects(frontend & backend), Linux System Admin
-- 📫 you can reach me though:
-        Email: raj.vivek999@gmail.com
-        Phone: +91 9967796321
-        Facebook: www.facebook.com/raj.vivek999
+- 📫 You can reach me through:<br />
+        Email: raj.vivek999@gmail.com<br />
+        Phone: +91 9967796321<br />
+        Facebook: www.facebook.com/raj.vivek999<br />
         Instagram: www.instagram.com/l0st_vive
 
 <!---
