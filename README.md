@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on web development Projects(frontend & backend), Linux System Admin
 - 📫 You can reach me through:<br />
--             Email: raj.vivek999@gmail.com ><br />
-              Phone: +91 9967796321<br />
+               Email: raj.vivek999@gmail.com ><br />
+               Phone: +91 9967796321<br />
                Facebook: www.facebook.com/raj.vivek999><br />
                Instagram: www.instagram.com/l0st_vive
         
