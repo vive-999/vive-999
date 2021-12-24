@@ -8,7 +8,7 @@
 ***
 <h4 style ="text-align:center;">Below is the list of some of the projects.</h4>
 <ol>
-  <li><a href="https://www.w3schools.com" target="_blank"><b>Textchanger</b></a></li> 
+  <li><a href="https://textchangervive.herokuapp.com/" target="_blank"><b>Textchanger</b></a></li> 
  
 </ol>
     
